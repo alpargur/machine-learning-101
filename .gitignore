@@ -130,3 +130,6 @@ dmypy.json
 
 # macOS generated file
 .DS_STORE
+
+# IDE generated file
+.idea
