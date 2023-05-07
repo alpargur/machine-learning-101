@@ -1,4 +1,4 @@
-# Lecture 01 / Solutions
+# 01 introduction
 
 1. **Where do you face Machine Learning?** <br>
    Currently we face machine learning almost in every field. It's widely used in medical field, tech industry, corporate companies, entertainment. One can find mostly find it in classification problems *e.g.* fraud detection in banks, helping to diagnose deseases in medical care, removing men from the loop in repetitive tasks and many more.
