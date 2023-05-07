@@ -41,3 +41,4 @@
 - **Pruning:** 
   - Other algorithms first train the model without any restrictions and then remove insignificant nodes, so called pruning. <br> A node whose children are all leaf nodes is considered to be insignificant if the purity improvement is negligible.
   - X^2 test is used to estimate the probability aka _p-value_. If this value is higher than selected threshold then node is said to be insignificant.
+  - With `ccp_alpha` parameter you can control the use of pruning. The higher the ccp_alpha value, the more batches will be pruned.
