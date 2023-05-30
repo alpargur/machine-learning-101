@@ -16,7 +16,7 @@ Spotify has a wide variety of genres. As a PoC, we decided to develop a classifi
 | Initial training                                                                          | ✓     |
 | Find out more info about genre tree structure of Spotify                                  | ✓     |
 | Train with more data (1000 tracks per genre)                                              | ✓     |
-| Train with different set of features (popularity, duration, bpm, liveness, loudness, key) |       |
+| Train with different set of features (popularity, duration, bpm, liveness, loudness, key) | ✓     |
 | Visualize results                                                                         | ✓     |
 | Find the impactful parameters                                                             |       |
 | Hyperparameter tuning (especially RandomForest & SVC)                                     |       |
