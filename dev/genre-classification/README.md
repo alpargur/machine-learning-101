@@ -18,9 +18,7 @@ Spotify has a wide variety of genres. As a PoC, we decided to develop a classifi
 | Train with more data (1000 tracks per genre)                                              | ✓     |
 | Train with different set of features (popularity, duration, bpm, liveness, loudness, key) | ✓     |
 | Visualize results                                                                         | ✓     |
-| Find the impactful parameters                                                             |       |
-| Hyperparameter tuning (especially RandomForest & SVC)                                     |       |
-| Usecase: Try a classification with confidence of percentage  (multiclass classifier)      |       |
-| Usecase: Compare with binary classifier                                                   |       |
-| Usecase: Train a model with extended genre list                                           |       |
-| Usecase: Train a model on subgenres                                                       |       |
+| Collect data: get 1000 unique tracks per genre                                            |       |
+| Hyperparameter tuning (especially RandomForest & SVC)                                     | 🚧    |
+| Usecase: multiclass classifier                                                            |       |
+| Usecase: create a model with prediction value                                             |       |
