@@ -4,3 +4,5 @@ pandas
 requests
 seaborn
 scipy
+joblib
+threadpoolctl
