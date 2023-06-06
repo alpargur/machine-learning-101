@@ -41,5 +41,5 @@ $ deactivate # to shutdown the virtual environment
 | Visualize results                                                                         | ✓     |
 | Collect data: get 1000 unique tracks per genre                                            | ✓     |
 | Hyperparameter tuning (especially RandomForest & SVC)                                     | ✓     |
-| Usecase: multiclass classifier                                                            | 🚧    |
-| Usecase: create a model with prediction value                                             |       |
+| Usecase: multiclass classifier                                                            | ✓     |
+| Usecase: create a model with prediction value                                             | ✓     |
