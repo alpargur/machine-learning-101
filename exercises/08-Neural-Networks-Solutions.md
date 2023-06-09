@@ -8,7 +8,7 @@
    - Biased neuron
 
 2. How does a perceptron work?
-   Perceptron works based on Hebbian Learning, hence "cells that fire together, wire together". Each neuron has a weight to multiply the the input and the sum of all combinations is compared agains the **threshold logic unit (TLU)**.
+   Perceptron works based on Hebbian Learning, hence "cells that fire together, wire together". Each neuron has a weight to multiply the the input and the sum of all combinations is compared against the **threshold logic unit (TLU)**.
    Classification takes place depending on the output value being bigger or smaller than the TLU.
 
 3. Fully connected layer: tells that every neuron in a layer are connected to the every neuron in the previous layer.
