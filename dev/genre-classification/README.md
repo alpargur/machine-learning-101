@@ -24,12 +24,14 @@ $ deactivate # to shutdown the virtual environment
 - We have retrieved different amounts of track for each genre and created separate training and tuning files. Below you find details of files:
   - `data-collection` is responsible for collecting tracks and features.
   - `data-exploration` extracts overview about the data we are handling.
-  - `initial-training-1k-tracks` trains models with 1000 tracks for each genre.
-  - `initial-training-100-tracks` training models with 100 tracks for each genre.
-  - `hyperparameter-tuning-1k-tracks` optimizing models with 1000 tracks for each genre.
-  - `hyperparameter-tuning-100-tracks` optimizing models with 100 tracks for each genre.
+  - `initial_datatraining` trains models with 100 tracks for each genre.
+  - `initial_datatraining_1k` training models with 1000 unique tracks for each genre.
+  - `hyperparameter-tuning-RFC` optimizing models with 1000 tracks for model RandomForestClassifier.
+  - `hyperparameter-tuning-SVC` optimizing models with 100 tracks for model SuperVectorClassifier.
+  - `multiclass-classifier-1k` training of multiclass classifiers for 1000 unique tracks for each genre.
+  - `multiclass-classifier-soft-voting-ensemble` training of an ensemble learning model consisting of binary classifiers, 1000 unique tracks for each genre.
+- Collected data and exported model performances can be found in `./data` directory.
 
-- Hyperparameter tuning is only done for **RandomForestClassifier** and **SuperVectorClassifier**.
 
 ## TODOs
 | ToDo                                                                                      | State |
