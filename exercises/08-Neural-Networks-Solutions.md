@@ -1,4 +1,4 @@
-# 08 - Neural Networks
+# 08 Neural Networks
 
 1. Architecture of a perceptron:
    - Input Layer
