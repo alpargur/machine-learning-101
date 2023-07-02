@@ -1,0 +1,11 @@
+- Vanishing gradient problem
+- Initialization of weights
+- Dying ReLu
+- ReLu is good default Swish is a better default for more complex problems
+- Knowing activation functions
+- Batch normalization
+	- saves scaling step
+	- helps with vanishing gradient at the beginning of the training but doesn't guarantee they won't come back
+- Self-supervised Learning (good fit for language models
+- Regularization Techniques (drop-out rate, batch-normalization, L1, L2)
+	- drop-out: tends to slow down convergence but result is better
