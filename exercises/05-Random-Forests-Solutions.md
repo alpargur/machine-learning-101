@@ -1,4 +1,4 @@
-# 06 Regression
+# 05 Random Forest
 
 1. What's the idea behind ensemble learning? Explain it. <br> Using mulriple models to get a better result.
 
