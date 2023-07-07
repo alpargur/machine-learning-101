@@ -62,7 +62,7 @@
 
 15. How to interpret the silhoutte diagramm on page 248?
 ![Silhoutte Score Grpah](../assets/silhoutte-score-graph.png)
-4 centroids performs the among others.
+4 centroids perform the best among the others.
 
 16. What are the limitations of K-Means?
 	- Need to specify the number of clusters.
