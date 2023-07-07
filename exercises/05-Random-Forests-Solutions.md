@@ -1,6 +1,6 @@
 # 05 Random Forest
 
-1. What's the idea behind ensemble learning? Explain it. <br> Using mulriple models to get a better result.
+1. What's the idea behind ensemble learning? Explain it. <br> Using multiple models to get a better result.
 
 2. hard voting vs soft voting classifier? <br>
     - **Hard Voting:** Mode of base classifiers' predictions.

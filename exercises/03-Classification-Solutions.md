@@ -1,21 +1,22 @@
 # 03 Classification
 
-1. **Is a performance of 90% always a good result for a classification task ? Explain in which situations it is bad.** <br> It is not enough to assess the performance of our model. We need more insights. Because if we were to only make one prediction in total and this was to be true, then we have 100% performance.
-
+1. **Is a performance of 90% always a good result for a classification task ? Explain in which situations it is bad.** <br>
+It is not enough to assess the performance of our model. We need more insights. Because if we were to only make one prediction in total and this was to be true, then we have 100% performance.
 
 2. Confusion matrix show four things:
     - Number of instances that were positive and predicted true -> TP
     - Number of instances that were positive and predicted false -> FP
     - Number of instances that were negative and predicted true -> TN
-    - Number of instances that were negative and predicted false -> FN 
-   
+    - Number of instances that were negative and predicted false -> FN
 
 3. Confusion matrix of a perfect classifier would look like:
+
 
 | Perfect        | Confusion  | Matrix | ---            |
 |----------------|------------|--------|----------------|
 | True Negative  | n - n_true | 0      | False Positive |
 | False Negative | 0          | n_true | True Positive  |
+
 
 |           |     | Predictions | Predictions |
 | ---       | --- | --- | --- |
@@ -71,4 +72,3 @@
 ### - If we revert the labels of 1, 0 (_e.g._ classify negatives instead of positives) than the accuracy stays the same but the precision and recall values change.
 ### - ROC curve doesn't exist for every estimator.
 ### - Use confusion matrix for determining the misclassifications of a multiclass classifier model.
-

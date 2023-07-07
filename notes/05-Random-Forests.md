@@ -1,4 +1,4 @@
-# 5. Ensemble Learning
+# 05. Ensemble Learning
 
 ## Light Gradient Boosting Machine (GBM)
 
