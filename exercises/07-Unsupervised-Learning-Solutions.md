@@ -26,7 +26,7 @@
 
 8. How to initialize centroids better?
 	- We can assign random data points as centroids.
-	- Choose centroids with a wide distamce from each other.
+	- Choose centroids with a wide distance from each other.
 
 9. What is the idea behind KMeans++?
 	- K-Means++ is an improvement over the standard K-Means algorithm that aims to initialize the cluster centroids in a way that leads to better convergence and more accurate clustering results. It addresses the issue of centroid initialization by selecting initial cluster centroids that are well-spaced and representative of the underlying data distribution.
@@ -83,7 +83,7 @@
 	- Human expert input is collected when model is uncertain about the prediction.
 	- This process continoues until no significant improvent is shown by the model.
 
-21. Which instancs are involved in clusters using the DBSCAN?
+21. Which instances are involved in clusters using the DBSCAN?
 	- The instances which form a high density, hence they should be lying close together.
 
 22. What is a core instance in DBSCAN?
