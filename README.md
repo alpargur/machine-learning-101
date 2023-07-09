@@ -1,9 +1,10 @@
 # Machine Learning 101
 
-<figure style="margin-top:-83px;">
+<div align="center" style="text-align: center; max-width: 640px; margin: 0 auto; margin-top: -83px; margin-bottom: 40px;">
   <img src="./assets/MLWR-Cover.png" alt="Machine Learning 101">
-  <h2 style="text-align:center;margin-top:-103px;">Images generated with DALL•E.</h2>
-</figure style="margin-bottom:30px;"">
+  <h3 style="text-align:center;margin-top:-103px;">Images generated with DALL•E.</h3>
+</div>
+<div style="padding-top: .6em;">
 
 - Machine Learning course content and notebooks built upon the chapters of [Hands-on Machine Learning with Scikit-Learn, Keras &TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) / 2nd edition.
 - Each chapter has its own branch to make the course progression clear.
