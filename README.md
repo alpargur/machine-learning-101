@@ -1,5 +1,10 @@
 # Machine Learning 101
-![MLWR Cover](./assets/MLWR-Cover.png)
+
+<figure>
+  <img style="margin-top:-83px;" src="./assets/MLWR-Cover.png" alt="Machine Learning 101">
+  <h2 style="text-align:center;margin-top:-103px;margin-bottom:30px;">Images generated with DALL•E.</h2>
+</figure>
+
 - Machine Learning course content and notebooks built upon the chapters of [Hands-on Machine Learning with Scikit-Learn, Keras &TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) / 2nd edition.
 - Each chapter has its own branch to make the course progression clear.
 - This course is offered at [Cologne University of Applied Sciences](https://www.th-koeln.de/studium/technische-informatik-master_1197.php) by Prof. Dr. Beate Rhein in Spring Semester 2023.
